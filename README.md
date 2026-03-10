@@ -2,7 +2,7 @@
 
 A simple interactive data dashboard built using Streamlit and Python.
 
-[Launch App on Streamlit community cloud](Hosted on https://csvdatadashboard-fvsw8kxecsvyejexnzyh3t.streamlit.app/ )
+[Launch App on Streamlit community cloud](https://csvdatadashboard-fvsw8kxecsvyejexnzyh3t.streamlit.app/ )
 
 ## Overview
 
